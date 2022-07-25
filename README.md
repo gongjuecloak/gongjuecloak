@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/gongjuecloak?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
+<div align="center"> <img src="[https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai](https://metrics.lecoq.io/gongjuecloak?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)"> </div>
