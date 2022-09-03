@@ -12,10 +12,6 @@
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=gongjuecloak" alt="访客统计" /></div>
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cos.gjcloak.xyz/2022/github-contribution-grid-snake.svg" /></div>
-
-
 #  🙋 Hello
 
 <p>✍️&nbsp;&nbsp;大家好，我是公爵!关于我的介绍请看 <a href="https://blog.gjcloak.top/about">这里</a></p>
